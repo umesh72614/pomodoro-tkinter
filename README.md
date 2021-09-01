@@ -17,9 +17,5 @@ cd pomodoro-tkinter
 python3 main.py
 ```
 
-—————————————
- Copyright 2021, Umesh Yadav
-—————————————
-
 ### License
 This project is distributed under [MIT license](https://opensource.org/licenses/MIT). Any feedback, suggestions are higly appreciated.
